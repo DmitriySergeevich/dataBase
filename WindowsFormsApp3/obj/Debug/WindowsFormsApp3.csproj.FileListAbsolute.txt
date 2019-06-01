@@ -10,3 +10,17 @@ E:\VS\шаблоны Visual Studio\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\W
 E:\VS\шаблоны Visual Studio\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
 E:\VS\шаблоны Visual Studio\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
 E:\VS\шаблоны Visual Studio\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\курсовая по базамданных\dataBase\WindowsFormsApp3\bin\Debug\Database1.mdf
+E:\курсовая по базамданных\dataBase\WindowsFormsApp3\bin\Debug\Database1_log.ldf
+E:\курсовая по базамданных\dataBase\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\курсовая по базамданных\dataBase\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\курсовая по базамданных\dataBase\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\курсовая по базамданных\dataBase\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\курсовая по базамданных\dataBase\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\курсовая по базамданных\dataBase\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\курсовая по базамданных\dataBase\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\курсовая по базамданных\dataBase\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\курсовая по базамданных\dataBase\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\курсовая по базамданных\dataBase\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\курсовая по базамданных\dataBase\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.main.resources
+E:\курсовая по базамданных\dataBase\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.scoreForm.resources

@@ -29,28 +29,7 @@ namespace WindowsFormsApp3
 
             await sqlConnection.OpenAsync();
 
-            SqlCommand command = new SqlCommand("SELECT * FROM Tovar",sqlConnection);
-
-            try
-            {
-                sqlReader = await command.ExecuteReaderAsync();
-
-                while(await sqlReader.ReadAsync())
-                {
-                    listBox1.Items.Add(Convert.ToString(sqlReader["Id"])+ "   " + Convert.ToString(sqlReader["Название"]) + "   " + Convert.ToString(sqlReader["Стоимость"]));
-                }
-            }
-            catch(Exception ex)
-            {
-                MessageBox.Show(ex.Message.ToString(),ex.Source.ToString(), MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
-            finally
-            {
-                if (sqlReader != null)
-                {
-                    sqlReader.Close();
-                }
-            }
+            refreshSql();
         }
 
         private void Form1_FormClosed(object sender, FormClosedEventArgs e)
@@ -118,6 +97,12 @@ namespace WindowsFormsApp3
                     sqlReader.Close();
                 }
             }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            main m = new main();
+            m.Show();
         }
     }
 }
